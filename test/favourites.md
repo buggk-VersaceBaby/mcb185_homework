@@ -1,8 +1,8 @@
-#My Favourites#
-## Colours##
-. Gunspatter Grey
-. Ocean Blue
-. Artery Red
+# My Favourites #
+## Colours ##
+1. Gunspatter Grey
+2. Ocean Blue
+3. Artery Red
 ## Authors ##
-. Toni Morrison
-. Neil Gaiman 
+1. Toni Morrison
+2. Neil Gaiman 
